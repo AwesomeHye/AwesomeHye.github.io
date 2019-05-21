@@ -60,7 +60,8 @@ JAVA 같은 경우는 아무도 참조하지 않는 할당된 메모리인 경�
 
 
 ## 참조 링크
-[what-are-docker-none-none-images] : http://www.projectatomic.io/blog/2015/07/what-are-docker-none-none-images/
+[what-are-docker-none-none-images]:
+http://www.projectatomic.io/blog/2015/07/what-are-docker-none-none-images/
 
 
 
