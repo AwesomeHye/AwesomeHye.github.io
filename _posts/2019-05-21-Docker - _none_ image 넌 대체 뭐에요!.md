@@ -1,7 +1,8 @@
 ---
 name: AwesomeMe
+author:AwesomeMe
 ---
-# Docker - &lt;none&gt; image 넌 대체 뭐에요!
+# Docker - &lt;none&gt; image 넌 대체 뭘까!
 
 
 도커에서 컨테이너 생성하는데 자꾸 에러가 나서  
