@@ -2,12 +2,12 @@
 
 
 도커에서 컨테이너 생성하는데 자꾸 에러가 나서
-Dockerfile을 고치고 
-이미지 다시 생성하고 
-컨테이너 생성해보고 
-반복 삽질 중인 평화로운 나날이었다.   
-그런데 어느 순간 
-`sudo docker images`
+Dockerfile을 고치고  
+이미지 다시 생성하고  
+컨테이너 생성해보고  
+반복 삽질 중인 평화로운 나날이었다.  
+그런데 어느 순간  
+`sudo docker images`  
 를 쳐보니..  
 
 ![lots of nones](/assets/20190521/lots_of_nones.png)
