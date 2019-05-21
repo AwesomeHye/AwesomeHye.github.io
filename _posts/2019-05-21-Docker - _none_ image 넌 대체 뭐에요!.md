@@ -1,7 +1,7 @@
 # Docker - &lt;none&gt; image 넌 대체 뭐에요!
 
 
-도커에서 컨테이너 생성하는데 자꾸 에러가 나서
+도커에서 컨테이너 생성하는데 자꾸 에러가 나서  
 Dockerfile을 고치고  
 이미지 다시 생성하고  
 컨테이너 생성해보고  
@@ -60,8 +60,7 @@ JAVA 같은 경우는 아무도 참조하지 않는 할당된 메모리인 경�
 
 
 ## 참조 링크
-[what-are-docker-none-none-images]:
-http://www.projectatomic.io/blog/2015/07/what-are-docker-none-none-images/
+[what-are-docker-none-none-images]: http://www.projectatomic.io/blog/2015/07/what-are-docker-none-none-images/
 
 
 
