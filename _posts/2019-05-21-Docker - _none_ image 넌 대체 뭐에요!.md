@@ -10,11 +10,7 @@ Dockerfile을 고치고
 `sudo docker images`
 를 쳐보니..  
 
-<<<<<<< HEAD
-![lots of nones](/assets/20190521/lot_of_nones.png)
-=======
 ![lots of nones](/assets/20190521/lots_of_nones.png)
->>>>>>> 5fc4a547c3ae464b8d8ca96a257c15dbc960f29a
 
 누가 생성했는지도 모르는 &lt;none&gt;:&lt;none&gt;  이미지들이 증식되어있었다. 
 
