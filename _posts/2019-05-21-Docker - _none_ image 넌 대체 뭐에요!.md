@@ -10,7 +10,7 @@ Dockerfile을 고치고
 `sudo docker images`
 를 쳐보니..  
 
-![lots of nones](./img/lot_of_nones.png)
+![lots of nones](./img/lots_of_nones.png)
 
 누가 생성했는지도 모르는 &lt;none&gt;:&lt;none&gt;  이미지들이 증식되어있었다. 
 
@@ -24,7 +24,7 @@ Dockerfile을 고치고
 docker build를 하거나 이미지를 pull했을 때 생겨난다.
 
 현재 도커 이미지의 상황을 보면
-![before build](./img/before_build.jpg)
+![before build](./img/before_build.png)
 
 IMAGE ID가 7184b27319b4 이고 이름이 test:0.1 인 이미지가 있다.
 
@@ -33,7 +33,7 @@ IMAGE ID가 7184b27319b4 이고 이름이 test:0.1 인 이미지가 있다.
 `sudo docker build --tag test:0.1 ./`
 이미지를 재생성 해주면
 
-![after build](./img/after_build.jpg)
+![after build](./img/after_build.png)
 
 다음과 같이 원래 test:0.1의 ID였던 7184b27319b4 가 &lt;none&gt;의 이름으로 변경된 것을 볼 수가 있다.  
 
