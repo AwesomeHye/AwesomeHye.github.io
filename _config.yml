@@ -14,7 +14,7 @@ subtitle: "주로 개발"
 email: catsarah3333@gmail.com
 name: Hye
 description: >
-  성장할 수 있는 계기가 되기를
+  성장할 수 있는 계기가 되기를아
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -44,7 +44,8 @@ jekyll-archives:
 # disqus_shortname: bencentra
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-140691322-1"
+# google_analytics: "UA-140691322-1"
 
 # Category descriptions (for archive pages)
 descriptions:
